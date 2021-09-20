@@ -76,3 +76,15 @@ Document comparison
 ## Integration with RStudio
 
 ![](images/git_add_commit.png)
+
+## Integration with RStudio
+
+![](images/git_modified.png)
+
+## Additional Resources
+
+[GitHub Learning Labs](https://lab.github.com/)
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com/)
+
+[Oh Shit, Git!?!](https://ohshitgit.com/)
