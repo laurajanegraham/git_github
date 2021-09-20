@@ -59,7 +59,7 @@ Document comparison
 
 ## Projects
 
-![](projects.png)
+![](images/projects.png)
 
 ## Releasing code & data with Zenodo
 
