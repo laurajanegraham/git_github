@@ -1,7 +1,7 @@
 ---
 title: "Git & GitHub"
 author: "Laura Graham"
-date: "17/09/2021"
+date: "27/04/2022"
 output: 
   ioslides_presentation: 
     logo: images/Octocat.png
